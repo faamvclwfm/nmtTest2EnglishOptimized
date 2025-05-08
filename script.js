@@ -226,180 +226,344 @@ const questionsTask3 = [
 ];
 const questionsTask4 = [
   {
-    text:"The first Olympic Games are traditionally dated to 776 BC and were held every four years at Olympia in ancient Greece <b>(17)_____</b> .Thousands gathered (18)_____, and the pentathlon, pay respects at a giant statue of Zeus, and witness the sacrifice of 100 oxen. Athletes won a wreath of leaves for their efforts.<br><br>The Games lost popularity after (19)_____ in the 2nd century BC and ended around 394 AD when Theodosius I banned pagan festivals. The modern Olympics were revived by Baron Pierre de Coubertin, a French educator.In 1894, he founded the International Olympic Committee (IOC), and the first modern Games (20)_____ in 1896.<br><br>The early Games were small and chaotic, but innovations like (21)_____ helped them grow. The Berlin Games in 1936 marked a significant moment in the Games' history.Hitler's propaganda was overshadowed by African-American sprinter Jesse Owens, who defied the notion of Aryan supremacy by winning four gold medals.<br><br>Despite their impressive spectacles and rising popularity, hosting the Olympics remains costly. The term 'winner's curse' reflects the financial burden, with many host cities facing (22)_____",
+    text:`Fast food has become a global phenomenon, but its roots
+          <b>(17)___</b> While McDonald's is often credited with
+          popularizing fast food, White Castle, founded in 1921 in
+          Wichita, Kansas, is considered the first fast-food chain. At
+          that time, hamburgers were seen (18)___
+          from
+          questionable meat.
+          White Castle's creators wanted to
+          change this belief by designing restaurants that focused
+          (19)___. Their success helped improve the reputation of
+          hamburgers across the United States.
+          However, McDonald's changed the fast-food industry with
+          its "Speedee Service System" when it reopened in 1948.
+          This assembly-line system set the standard for fast food
+          and while some chains like KFC and Carl's Jr. were around
+          before McDonald's innovation, (20)___
+          The fast-food industry has grown massively,with
+          McDonald's leading the charge as the world's largest fast-
+          food chain. 'However, (21)___ hasn't always been
+          smooth. McDonald's has faced prost ward biden
+          Protestors have accused McDonald's of selling unhealthy
+          food, aggressive marketing and undermining local values
+          and culture. Despite this, fast food, symbolized by the
+          iconic drive-through, (22) ___ shaping dining habits
+          globally.`,
     options:[
-      "to watch events like running, boxing",
-      "the photo finish and the Olympic flame",
-      "took place in Athens",
-      "as part of a religious festival for Zeus",
-      "Greece was conquered by Rome",
-      "have grown into a global event",
-      "high costs and economic challenges",
-      "and the 1850 Wenlock Olympian Games",
+      "as low-quality food made",
+      "the global expansion of fast food",
+      "remains an integral part of modern life",
+      "on cleanliness and visible food preparation",
+      "give hamburger meat a better reputation",
+      "trace back to early 20th-century America",
+      "they soon adopted similar methods",
+      "magine fast food without drive-through windows",
     ],
     questionText:"17.",
-    correct:3,
+    correct:5,
   },
   {
-    text:"The first Olympic Games are traditionally dated to 776 BC and were held every four years at Olympia in ancient Greece (17)_____ .Thousands gathered <b>(18)_____</b>, and the pentathlon, pay respects at a giant statue of Zeus, and witness the sacrifice of 100 oxen. Athletes won a wreath of leaves for their efforts.<br><br>The Games lost popularity after (19)_____ in the 2nd century BC and ended around 394 AD when Theodosius I banned pagan festivals. The modern Olympics were revived by Baron Pierre de Coubertin, a French educator.In 1894, he founded the International Olympic Committee (IOC), and the first modern Games (20)_____ in 1896.<br><br>The early Games were small and chaotic, but innovations like (21)_____ helped them grow. The Berlin Games in 1936 marked a significant moment in the Games' history.Hitler's propaganda was overshadowed by African-American sprinter Jesse Owens, who defied the notion of Aryan supremacy by winning four gold medals.<br><br>Despite their impressive spectacles and rising popularity, hosting the Olympics remains costly. The term 'winner's curse' reflects the financial burden, with many host cities facing (22)_____",
-    questionText:"18.",
-    options:[
-      "to watch events like running, boxing",
-      "the photo finish and the Olympic flame",
-      "took place in Athens",
-      "as part of a religious festival for Zeus",
-      "Greece was conquered by Rome",
-      "have grown into a global event",
-      "high costs and economic challenges",
-      "and the 1850 Wenlock Olympian Games",
+    text:`Fast food has become a global phenomenon, but its roots
+          (17)___ While McDonald's is often credited with
+          popularizing fast food, White Castle, founded in 1921 in
+          Wichita, Kansas, is considered the first fast-food chain. At
+          that time, hamburgers were seen <b>(18)___</b>
+          from
+          questionable meat.
+          White Castle's creators wanted to
+          change this belief by designing restaurants that focused
+          (19)___. Their success helped improve the reputation of
+          hamburgers across the United States.
+          However, McDonald's changed the fast-food industry with
+          its "Speedee Service System" when it reopened in 1948.
+          This assembly-line system set the standard for fast food
+          and while some chains like KFC and Carl's Jr. were around
+          before McDonald's innovation, (20)___
+          The fast-food industry has grown massively,with
+          McDonald's leading the charge as the world's largest fast-
+          food chain. 'However, (21)___ hasn't always been
+          smooth. McDonald's has faced prost ward biden
+          Protestors have accused McDonald's of selling unhealthy
+          food, aggressive marketing and undermining local values
+          and culture. Despite this, fast food, symbolized by the
+          iconic drive-through, (22) ___ shaping dining habits
+          globally.`,
+     questionText:"18.",
+     options:[
+      "as low-quality food made",
+      "the global expansion of fast food",
+      "remains an integral part of modern life",
+      "on cleanliness and visible food preparation",
+      "give hamburger meat a better reputation",
+      "trace back to early 20th-century America",
+      "they soon adopted similar methods",
+      "magine fast food without drive-through windows",
     ],
     correct:0,
   },
   {
-    text:"The first Olympic Games are traditionally dated to 776 BC and were held every four years at Olympia in ancient Greece (17)_____.Thousands gathered (18)_____, and the pentathlon, pay respects at a giant statue of Zeus, and witness the sacrifice of 100 oxen. Athletes won a wreath of leaves for their efforts.<br><br>The Games lost popularity after <b>(19)_____</b> in the 2nd century BC and ended around 394 AD when Theodosius I banned pagan festivals. The modern Olympics were revived by Baron Pierre de Coubertin, a French educator.In 1894, he founded the International Olympic Committee (IOC), and the first modern Games (20)_____ in 1896.<br><br>The early Games were small and chaotic, but innovations like (21)_____ helped them grow. The Berlin Games in 1936 marked a significant moment in the Games' history.Hitler's propaganda was overshadowed by African-American sprinter Jesse Owens, who defied the notion of Aryan supremacy by winning four gold medals.<br><br>Despite their impressive spectacles and rising popularity, hosting the Olympics remains costly. The term 'winner's curse' reflects the financial burden, with many host cities facing (22)_____",
+    text:`Fast food has become a global phenomenon, but its roots
+          (17)___ While McDonald's is often credited with
+          popularizing fast food, White Castle, founded in 1921 in
+          Wichita, Kansas, is considered the first fast-food chain. At
+          that time, hamburgers were seen (18)___
+          from
+          questionable meat.
+          White Castle's creators wanted to
+          change this belief by designing restaurants that focused
+          <b>(19)___</b>. Their success helped improve the reputation of
+          hamburgers across the United States.
+          However, McDonald's changed the fast-food industry with
+          its "Speedee Service System" when it reopened in 1948.
+          This assembly-line system set the standard for fast food
+          and while some chains like KFC and Carl's Jr. were around
+          before McDonald's innovation, (20)___
+          The fast-food industry has grown massively,with
+          McDonald's leading the charge as the world's largest fast-
+          food chain. 'However, (21)___ hasn't always been
+          smooth. McDonald's has faced prost ward biden
+          Protestors have accused McDonald's of selling unhealthy
+          food, aggressive marketing and undermining local values
+          and culture. Despite this, fast food, symbolized by the
+          iconic drive-through, (22) ___ shaping dining habits
+          globally.`,
     questionText:"19.",
     options:[
-      "to watch events like running, boxing",
-      "the photo finish and the Olympic flame",
-      "took place in Athens",
-      "as part of a religious festival for Zeus",
-      "Greece was conquered by Rome",
-      "have grown into a global event",
-      "high costs and economic challenges",
-      "and the 1850 Wenlock Olympian Games",
+      "as low-quality food made",
+      "the global expansion of fast food",
+      "remains an integral part of modern life",
+      "on cleanliness and visible food preparation",
+      "give hamburger meat a better reputation",
+      "trace back to early 20th-century America",
+      "they soon adopted similar methods",
+      "magine fast food without drive-through windows",
     ],
-    correct:4,
+    correct:3,
   },
   {
-    text:"The first Olympic Games are traditionally dated to 776 BC and were held every four years at Olympia in ancient Greece (17)_____ .Thousands gathered (18)_____, and the pentathlon, pay respects at a giant statue of Zeus, and witness the sacrifice of 100 oxen. Athletes won a wreath of leaves for their efforts.<br><br>The Games lost popularity after (19)_____ in the 2nd century BC and ended around 394 AD when Theodosius I banned pagan festivals. The modern Olympics were revived by Baron Pierre de Coubertin, a French educator.In 1894, he founded the International Olympic Committee (IOC), and the first modern Games <b>(20)_____</b> in 1896.<br><br>The early Games were small and chaotic, but innovations like (21)_____ helped them grow. The Berlin Games in 1936 marked a significant moment in the Games' history.Hitler's propaganda was overshadowed by African-American sprinter Jesse Owens, who defied the notion of Aryan supremacy by winning four gold medals.<br><br>Despite their impressive spectacles and rising popularity, hosting the Olympics remains costly. The term 'winner's curse' reflects the financial burden, with many host cities facing (22)_____",
+    text:`Fast food has become a global phenomenon, but its roots
+          (17)___ While McDonald's is often credited with
+          popularizing fast food, White Castle, founded in 1921 in
+          Wichita, Kansas, is considered the first fast-food chain. At
+          that time, hamburgers were seen (18)___
+          from
+          questionable meat.
+          White Castle's creators wanted to
+          change this belief by designing restaurants that focused
+          (19)___. Their success helped improve the reputation of
+          hamburgers across the United States.
+          However, McDonald's changed the fast-food industry with
+          its "Speedee Service System" when it reopened in 1948.
+          This assembly-line system set the standard for fast food
+          and while some chains like KFC and Carl's Jr. were around
+          before McDonald's innovation, <b>(20)___</b>
+          The fast-food industry has grown massively,with
+          McDonald's leading the charge as the world's largest fast-
+          food chain. 'However, (21)___ hasn't always been
+          smooth. McDonald's has faced prost ward biden
+          Protestors have accused McDonald's of selling unhealthy
+          food, aggressive marketing and undermining local values
+          and culture. Despite this, fast food, symbolized by the
+          iconic drive-through, (22) ___ shaping dining habits
+          globally.`,
     questionText:"20.",
     options:[
-      "to watch events like running, boxing",
-      "the photo finish and the Olympic flame",
-      "took place in Athens",
-      "as part of a religious festival for Zeus",
-      "Greece was conquered by Rome",
-      "have grown into a global event",
-      "high costs and economic challenges",
-      "and the 1850 Wenlock Olympian Games",
-    ],
-    correct:2,
-  },
-  {
-    text:" The first Olympic Games are traditionally dated to 776 BC and were held every four years at Olympia in ancient Greece (17)_____.Thousands gathered (18)_____, and the pentathlon, pay respects at a giant statue of Zeus, and witness the sacrifice of 100 oxen. Athletes won a wreath of leaves for their efforts.<br><br>The Games lost popularity after (19)_____ in the 2nd century BC and ended around 394 AD when Theodosius I banned pagan festivals. The modern Olympics were revived by Baron Pierre de Coubertin, a French educator.In 1894, he founded the International Olympic Committee (IOC), and the first modern Games (20)_____ in 1896.<br><br>The early Games were small and chaotic, but innovations like <b>(21)_____</b> helped them grow. The Berlin Games in 1936 marked a significant moment in the Games' history.Hitler's propaganda was overshadowed by African-American sprinter Jesse Owens, who defied the notion of Aryan supremacy by winning four gold medals.<br><br>Despite their impressive spectacles and rising popularity, hosting the Olympics remains costly. The term 'winner's curse' reflects the financial burden, with many host cities facing (22)_____",
-    questionText:"21.",
-    options:[
-      "to watch events like running, boxing",
-      "the photo finish and the Olympic flame",
-      "took place in Athens",
-      "as part of a religious festival for Zeus",
-      "Greece was conquered by Rome",
-      "have grown into a global event",
-      "high costs and economic challenges",
-      "and the 1850 Wenlock Olympian Games",
-    ],
-    correct:2,
-  },
-  {
-    text:"The first Olympic Games are traditionally dated to 776 BC and were held every four years at Olympia in ancient Greece (17)_____.Thousands gathered (18)_____, and the pentathlon, pay respects at a giant statue of Zeus, and witness the sacrifice of 100 oxen. Athletes won a wreath of leaves for their efforts.<br><br>The Games lost popularity after (19)_____ in the 2nd century BC and ended around 394 AD when Theodosius I banned pagan festivals. The modern Olympics were revived by Baron Pierre de Coubertin, a French educator.In 1894, he founded the International Olympic Committee (IOC), and the first modern Games (20)_____ in 1896.<br><br>The early Games were small and chaotic, but innovations like (21)_____ helped them grow. The Berlin Games in 1936 marked a significant moment in the Games' history.Hitler's propaganda was overshadowed by African-American sprinter Jesse Owens, who defied the notion of Aryan supremacy by winning four gold medals.<br><br>Despite their impressive spectacles and rising popularity, hosting the Olympics remains costly. The term 'winner's curse' reflects the financial burden, with many host cities facing <b>(22)_____",
-    questionText:"22.",
-    options:[
-      "to watch events like running, boxing",
-      "the photo finish and the Olympic flame",
-      "took place in Athens",
-      "as part of a religious festival for Zeus",
-      "Greece was conquered by Rome",
-      "have grown into a global event",
-      "high costs and economic challenges",
-      "and the 1850 Wenlock Olympian Games",
+      "as low-quality food made",
+      "the global expansion of fast food",
+      "remains an integral part of modern life",
+      "on cleanliness and visible food preparation",
+      "give hamburger meat a better reputation",
+      "trace back to early 20th-century America",
+      "they soon adopted similar methods",
+      "magine fast food without drive-through windows",
     ],
     correct:6,
+  },
+  {
+    text:`Fast food has become a global phenomenon, but its roots
+          (17)___ While McDonald's is often credited with
+          popularizing fast food, White Castle, founded in 1921 in
+          Wichita, Kansas, is considered the first fast-food chain. At
+          that time, hamburgers were seen (18)___
+          from
+          questionable meat.
+          White Castle's creators wanted to
+          change this belief by designing restaurants that focused
+          (19)___. Their success helped improve the reputation of
+          hamburgers across the United States.
+          However, McDonald's changed the fast-food industry with
+          its "Speedee Service System" when it reopened in 1948.
+          This assembly-line system set the standard for fast food
+          and while some chains like KFC and Carl's Jr. were around
+          before McDonald's innovation, (20)___
+          The fast-food industry has grown massively,with
+          McDonald's leading the charge as the world's largest fast-
+          food chain. 'However, <b>(21)___</b> hasn't always been
+          smooth. McDonald's has faced prost ward biden
+          Protestors have accused McDonald's of selling unhealthy
+          food, aggressive marketing and undermining local values
+          and culture. Despite this, fast food, symbolized by the
+          iconic drive-through, (22) ___ shaping dining habits
+          globally.`,
+    questionText:"21.",
+    options:[
+      "as low-quality food made",
+      "the global expansion of fast food",
+      "remains an integral part of modern life",
+      "on cleanliness and visible food preparation",
+      "give hamburger meat a better reputation",
+      "trace back to early 20th-century America",
+      "they soon adopted similar methods",
+      "magine fast food without drive-through windows",
+    ],
+    correct:1,
+  },
+  {
+    text:`Fast food has become a global phenomenon, but its roots
+          (17)___ While McDonald's is often credited with
+          popularizing fast food, White Castle, founded in 1921 in
+          Wichita, Kansas, is considered the first fast-food chain. At
+          that time, hamburgers were seen (18)___
+          from
+          questionable meat.
+          White Castle's creators wanted to
+          change this belief by designing restaurants that focused
+          (19)___. Their success helped improve the reputation of
+          hamburgers across the United States.
+          However, McDonald's changed the fast-food industry with
+          its "Speedee Service System" when it reopened in 1948.
+          This assembly-line system set the standard for fast food
+          and while some chains like KFC and Carl's Jr. were around
+          before McDonald's innovation, (20)___
+          The fast-food industry has grown massively,with
+          McDonald's leading the charge as the world's largest fast-
+          food chain. 'However, (21)___ hasn't always been
+          smooth. McDonald's has faced prost ward biden
+          Protestors have accused McDonald's of selling unhealthy
+          food, aggressive marketing and undermining local values
+          and culture. Despite this, fast food, symbolized by the
+          iconic drive-through, <b>(22)___</b> shaping dining habits
+          globally.`,
+    questionText:"22.",
+    options:[
+      "as low-quality food made",
+      "the global expansion of fast food",
+      "remains an integral part of modern life",
+      "on cleanliness and visible food preparation",
+      "give hamburger meat a better reputation",
+      "trace back to early 20th-century America",
+      "they soon adopted similar methods",
+      "magine fast food without drive-through windows",
+    ],
+    correct:2,
   },
 
 ]
 const questionsTask5 = [
   {
-    text:`Online and offline gaming can offer social and recreational <b>(23)_____</b> and most gamers do not face serious
-            issues. Mental health experts are concerned when gaming becomes a prolonged habit that negatively (24)_____
-            a person's life, including their relationships, education, or career goals. Gaming disorder is diagnosed
-            when gaming (25)_____ with other life aspects for a year or longer. Signs include an inability to control
-            gaming, (26)_____ it over other interests, and continuing despite negative consequences. Studies show that
-            about 1.4% of gamers may be addicted, though the majority don't have this issue. For children,
-            understanding their gaming habits and setting healthy boundaries is (27)_____`,
+    text:`Artificial intelligence (Al) is increasingly becoming a part of our daily lives, performing a wide <b>(23)____</b> of
+          tasks. From writing texts and answering questions to suggesting routes and enhancing business management,
+          Al is everywhere. But how is Al transforming the world of art?
+          Recently, Al-powered tools that can create digital art have gained significant attention. These tools allow
+          artists to push the boundaries of creativity and (24)___ new forms of expression.
+          With AI, artists can (25)___ with machines to develop unique art forms. Techniques like GANs
+          (Generative Adversarial Networks) and computer-aided drawing tools are helping artists create diverse and
+          complex pieces more efficiently.
+          As Al continues to evolve, it opens up new (26)___ in the art world, expanding what we consider possible
+          in artistic expression. However, it's crucial to remember that Al is a tool, not a replacement for human
+          creativity, (27)___ rather than replacing the artist's vision.`,
     options:[
-      "expectation",
-      "benefits",
-      "relaxation",
-      "reduction",
+      "range",
+      "space",
+      "variability",
+      "level",
     ],
     questionText:"23.",
+    correct:0,
+  },
+  {
+    text:`Artificial intelligence (Al) is increasingly becoming a part of our daily lives, performing a wide (23)____ of
+          tasks. From writing texts and answering questions to suggesting routes and enhancing business management,
+          Al is everywhere. But how is Al transforming the world of art?
+          Recently, Al-powered tools that can create digital art have gained significant attention. These tools allow
+          artists to push the boundaries of creativity and <b>(24)___</b> new forms of expression.
+          With AI, artists can (25)___ with machines to develop unique art forms. Techniques like GANs
+          (Generative Adversarial Networks) and computer-aided drawing tools are helping artists create diverse and
+          complex pieces more efficiently.
+          As Al continues to evolve, it opens up new (26)___ in the art world, expanding what we consider possible
+          in artistic expression. However, it's crucial to remember that Al is a tool, not a replacement for human
+          creativity, (27)___ rather than replacing the artist's vision.`,
+    questionText:"24.",
+    options:[
+      "look up",
+      "manage",
+      "explore",
+      "replace",
+    ],
+    correct:2,
+  },
+  {
+    text:`Artificial intelligence (Al) is increasingly becoming a part of our daily lives, performing a wide (23)____ of
+          tasks. From writing texts and answering questions to suggesting routes and enhancing business management,
+          Al is everywhere. But how is Al transforming the world of art?
+          Recently, Al-powered tools that can create digital art have gained significant attention. These tools allow
+          artists to push the boundaries of creativity and (24)___ new forms of expression.
+          With AI, artists can <b>(25)___</b> with machines to develop unique art forms. Techniques like GANs
+          (Generative Adversarial Networks) and computer-aided drawing tools are helping artists create diverse and
+          complex pieces more efficiently.
+          As Al continues to evolve, it opens up new (26)___ in the art world, expanding what we consider possible
+          in artistic expression. However, it's crucial to remember that Al is a tool, not a replacement for human
+          creativity, (27)___ rather than replacing the artist's vision.`,
+    questionText:"25.",
+    options:[
+      "join",
+      "collaborate",
+      "aid",
+      "connect",
+    ],
     correct:1,
   },
   {
-    text:`Online and offline gaming can offer social and recreational (23)_____ and most gamers do not face serious
-            issues. Mental health experts are concerned when gaming becomes a prolonged habit that negatively <b>(24)_____</b>
-            a person's life, including their relationships, education, or career goals. Gaming disorder is diagnosed
-            when gaming (25)_____ with other life aspects for a year or longer. Signs include an inability to control
-            gaming, (26)_____ it over other interests, and continuing despite negative consequences. Studies show that
-            about 1.4% of gamers may be addicted, though the majority don't have this issue. For children,
-            understanding their gaming habits and setting healthy boundaries is (27)_____`,
-    questionText:"24.",
-    options:[
-      "impacts",
-      "controls",
-      "poils",
-      "corrupts",
-    ],
-    correct:0,
-  },
-  {
-    text:`Online and offline gaming can offer social and recreational (23)_____ and most gamers do not face serious
-            issues. Mental health experts are concerned when gaming becomes a prolonged habit that negatively (24)_____
-            a person's life, including their relationships, education, or career goals. Gaming disorder is diagnosed
-            when gaming <b>(25)_____</b> with other life aspects for a year or longer. Signs include an inability to control
-            gaming, (26)_____ it over other interests, and continuing despite negative consequences. Studies show that
-            about 1.4% of gamers may be addicted, though the majority don't have this issue. For children,
-            understanding their gaming habits and setting healthy boundaries is (27)_____`,
-    questionText:"25.",
-    options:[
-      "interferes",
-      "enhances",
-      "resolves",
-      "monitors",
-    ],
-    correct:0,
-  },
-  {
-    text:`Online and offline gaming can offer social and recreational (23)_____ and most gamers do not face serious
-            issues. Mental health experts are concerned when gaming becomes a prolonged habit that negatively (24)_____
-            a person's life, including their relationships, education, or career goals. Gaming disorder is diagnosed
-            when gaming (25)_____ with other life aspects for a year or longer. Signs include an inability to control
-            gaming, <b>(26)_____</b> it over other interests, and continuing despite negative consequences. Studies show that
-            about 1.4% of gamers may be addicted, though the majority don't have this issue. For children,
-            understanding their gaming habits and setting healthy boundaries is (27)_____`,
+    text:`Artificial intelligence (Al) is increasingly becoming a part of our daily lives, performing a wide (23)____ of
+          tasks. From writing texts and answering questions to suggesting routes and enhancing business management,
+          Al is everywhere. But how is Al transforming the world of art?
+          Recently, Al-powered tools that can create digital art have gained significant attention. These tools allow
+          artists to push the boundaries of creativity and (24)___ new forms of expression.
+          With AI, artists can (25)___ with machines to develop unique art forms. Techniques like GANs
+          (Generative Adversarial Networks) and computer-aided drawing tools are helping artists create diverse and
+          complex pieces more efficiently.
+          As Al continues to evolve, it opens up new <b>(26)___</b> in the art world, expanding what we consider possible
+          in artistic expression. However, it's crucial to remember that Al is a tool, not a replacement for human
+          creativity, (27)___ rather than replacing the artist's vision.`,
     questionText:"26.",
     options:[
-      "prioritizing",
-      "neglecting",
-      "forgetting",
-      "avoiding",
+      "possibilities",
+      "chances",
+      "hazards",
+      "occasions",
     ],
     correct:0,
   },
   {
-    text:`Online and offline gaming can offer social and recreational (23)_____ and most gamers do not face serious
-            issues. Mental health experts are concerned when gaming becomes a prolonged habit that negatively (24)_____
-            a person's life, including their relationships, education, or career goals. Gaming disorder is diagnosed
-            when gaming (25)_____ with other life aspects for a year or longer. Signs include an inability to control
-            gaming, (26)_____ it over other interests, and continuing despite negative consequences. Studies show that
-            about 1.4% of gamers may be addicted, though the majority don't have this issue. For children,
-            understanding their gaming habits and setting healthy boundaries is <b>(27)_____</b>`,
+    text:`Artificial intelligence (Al) is increasingly becoming a part of our daily lives, performing a wide (23)____ of
+          tasks. From writing texts and answering questions to suggesting routes and enhancing business management,
+          Al is everywhere. But how is Al transforming the world of art?
+          Recently, Al-powered tools that can create digital art have gained significant attention. These tools allow
+          artists to push the boundaries of creativity and (24)___ new forms of expression.
+          With AI, artists can (25)___ with machines to develop unique art forms. Techniques like GANs
+          (Generative Adversarial Networks) and computer-aided drawing tools are helping artists create diverse and
+          complex pieces more efficiently.
+          As Al continues to evolve, it opens up new (26)___ in the art world, expanding what we consider possible
+          in artistic expression. However, it's crucial to remember that Al is a tool, not a replacement for human
+          creativity, <b>(27)___</b> rather than replacing the artist's vision.`,
     questionText:"27.",
     options:[
-      "minimal",
-      "unnecessary",
-      "essential",
-      "unbelievable",
+      "improving",
+      "magnifying",
+      "enhancing",
+      "lifting",
     ],
     correct:2,
   }
@@ -407,112 +571,156 @@ const questionsTask5 = [
 ]
 const questionsTask6 = [
   {
-    text:`At the National Air Guitar Championships, Mia felt a mix
-            of excitement and nerves. After <b>(28)_____</b>
-            she finally stepped onto the stage. The crowd roared as she
-            pretended to strum her (29)_____ guitar, losing (30)_____
-            in the music. The competition was fierce, but she
-            loved every moment of it. "I felt like a rock star." she said.
-            "It was amazing (31)_____ my passion with others who
-            love air guitar just as much as I do." (32)_____ not
-            winning, Mia walked away with great memories and new
-            friends. The experience made her even more excited for
-            the World Finals in Oulu.`,
-    options:[
-      "practicing",
-      "practiced",
-      "been practiced",
-      "practice",
+    text: `Although Rome is one of the most fascinating cities
+          in the world, many people <b>(28)___</b> to really experience its
+          special qualities. This is because they stick to guided (29)___
+          and fixed itineraries. As the British author Elizabeth
+          Bowen once wrote, you cannot truly know Rome (30)___
+          you have walked through the tangle of streets and
+          alleys until you are totally exhausted. It is not only very
+          easy to get lost in Rome, but doing (31)___ is the best
+          way to actually learn about the city. Of course, if you
+          are curious about history, you should visit the famous
+          archaeological sites, churches and monuments in 5-
+          to learn as much as you can about the city. However,
+          there is such a huge amount of information, that at
+          some point you should just take a break and spend an
+          afternoon exploring the back streets (32)___foot. If you get
+          lost - and you probably will - so much the better. Just
+          give yourself enough time to enjoy the experience
+          without worry or stress. You will have a chance to
+          see everyday Roman life and you will go back home
+          knowing Rome better than most other tourists.`,
+    questionText: "28.",
+    options: [
+      "decided",
+      "avoid",
+      "fail",
+      "want"
     ],
-    questionText:"28.",
-    correct:0,
+    correct: 2 // Please fill in the correct option index (0-3)
   },
   {
-    text:`At the National Air Guitar Championships, Mia felt a mix
-            of excitement and nerves. After (28)_____
-            she finally stepped onto the stage. The crowd roared as she
-            pretended to strum her <b>(29)_____</b> guitar, losing (30)_____
-            in the music. The competition was fierce, but she
-            loved every moment of it. "I felt like a rock star." she said.
-            "It was amazing (31)_____ my passion with others who
-            love air guitar just as much as I do." (32)_____ not
-            winning, Mia walked away with great memories and new
-            friends. The experience made her even more excited for
-            the World Finals in Oulu.`,
-    questionText:"29.",
-    options:[
-      "imagine",
-      "imaginary",
-      "imaginative",
-      "image",
+    text: `Although Rome is one of the most fascinating cities
+          in the world, many people (28)___ to really experience its
+          special qualities. This is because they stick to guided <b>(29)___</b> 
+          and fixed itineraries. As the British author Elizabeth
+          Bowen once wrote, you cannot truly know Rome (30)___
+          you have walked through the tangle of streets and
+          alleys until you are totally exhausted. It is not only very
+          easy to get lost in Rome, but doing (31)___ is the best
+          way to actually learn about the city. Of course, if you
+          are curious about history, you should visit the famous
+          archaeological sites, churches and monuments in 5-
+          to learn as much as you can about the city. However,
+          there is such a huge amount of information, that at
+          some point you should just take a break and spend an
+          afternoon exploring the back streets (32)___foot. If you get
+          lost - and you probably will - so much the better. Just
+          give yourself enough time to enjoy the experience
+          without worry or stress. You will have a chance to
+          see everyday Roman life and you will go back home
+          knowing Rome better than most other tourists.`,
+    questionText: "29.",
+    options: [
+      "journeys",
+      "travels",
+      "trips",
+      "tours"
     ],
-    correct:1,
+    correct: 3 // Please fill in the correct option index (0-3)
   },
   {
-    text:`At the National Air Guitar Championships, Mia felt a mix
-            of excitement and nerves. After (28)_____
-            she finally stepped onto the stage. The crowd roared as she
-            pretended to strum her (29)_____ guitar, losing <b>(30)_____</b>
-            in the music. The competition was fierce, but she
-            loved every moment of it. "I felt like a rock star." she said.
-            "It was amazing (31)_____ my passion with others who
-            love air guitar just as much as I do." (32)_____ not
-            winning, Mia walked away with great memories and new
-            friends. The experience made her even more excited for
-            the World Finals in Oulu.`,
-    questionText:"30.",
-    options:[
-      "her",
-      "herself",
-      "them",
-      "themselves",
+    text: `Although Rome is one of the most fascinating cities
+          in the world, many people (28)___to really experience its
+          special qualities. This is because they stick to guided (29)___
+          and fixed itineraries. As the British author Elizabeth
+          Bowen once wrote, you cannot truly know Rome <b>(30)___</b>  
+          you have walked through the tangle of streets and
+          alleys until you are totally exhausted. It is not only very
+          easy to get lost in Rome, but doing (31)___ is the best
+          way to actually learn about the city. Of course, if you
+          are curious about history, you should visit the famous
+          archaeological sites, churches and monuments in 5-
+          to learn as much as you can about the city. However,
+          there is such a huge amount of information, that at
+          some point you should just take a break and spend an
+          afternoon exploring the back streets (32)___foot. If you get
+          lost - and you probably will - so much the better. Just
+          give yourself enough time to enjoy the experience
+          without worry or stress. You will have a chance to
+          see everyday Roman life and you will go back home
+          knowing Rome better than most other tourists.`,
+    questionText: "30.",
+    options: [
+      "although",
+      "if not",
+      "unless",
+      "however"
     ],
-    correct:1,
+    correct: 2 // Please fill in the correct option index (0-3)
   },
   {
-    text:`At the National Air Guitar Championships, Mia felt a mix
-            of excitement and nerves. After (28)_____
-            she finally stepped onto the stage. The crowd roared as she
-            pretended to strum her (29)_____ guitar, losing (30)_____
-            in the music. The competition was fierce, but she
-            loved every moment of it. "I felt like a rock star." she said.
-            "It was amazing <b>(31)_____</b> my passion with others who
-            love air guitar just as much as I do." (32)_____ not
-            winning, Mia walked away with great memories and new
-            friends. The experience made her even more excited for
-            the World Finals in Oulu.`,
-    questionText:"31.",
-    options:[
-      "share",
-      "sharing",
-      "to share",
-      "have shared",
+    text: `Although Rome is one of the most fascinating cities
+          in the world, many people (28)___ to really experience its
+          special qualities. This is because they stick to guided (29)___
+          and fixed itineraries. As the British author Elizabeth
+          Bowen once wrote, you cannot truly know Rome (30)___
+          you have walked through the tangle of streets and
+          alleys until you are totally exhausted. It is not only very
+          easy to get lost in Rome, but doing <b>(31)___</b> is the best
+          way to actually learn about the city. Of course, if you
+          are curious about history, you should visit the famous
+          archaeological sites, churches and monuments in 5-
+          to learn as much as you can about the city. However,
+          there is such a huge amount of information, that at
+          some point you should just take a break and spend an
+          afternoon exploring the back streets (32)___foot. If you get
+          lost - and you probably will - so much the better. Just
+          give yourself enough time to enjoy the experience
+          without worry or stress. You will have a chance to
+          see everyday Roman life and you will go back home
+          knowing Rome better than most other tourists.`,
+    questionText: "31.",
+    options: [
+      "so",
+      "such",
+      "it",
+      "there"
     ],
-    correct:2,
+    correct: 0 // Please fill in the correct option index (0-3)
   },
   {
-    text:`At the National Air Guitar Championships, Mia felt a mix
-            of excitement and nerves. After (28)_____
-            she finally stepped onto the stage. The crowd roared as she
-            pretended to strum her (29)_____ guitar, losing (30)_____
-            in the music. The competition was fierce, but she
-            loved every moment of it. "I felt like a rock star." she said.
-            "It was amazing (31)_____ my passion with others who
-            love air guitar just as much as I do." <b>(32)_____</b> not
-            winning, Mia walked away with great memories and new
-            friends. The experience made her even more excited for
-            the World Finals in Oulu.`,
-    questionText:"32.",
-    options:[
-      "Despite",
-      "Even though",
-      "Although",
-      "Regardless",
+    text: `Although Rome is one of the most fascinating cities
+          in the world, many people (28)___ to really experience its
+          special qualities. This is because they stick to guided (29)___
+          and fixed itineraries. As the British author Elizabeth
+          Bowen once wrote, you cannot truly know Rome (30)___
+          you have walked through the tangle of streets and
+          alleys until you are totally exhausted. It is not only very
+          easy to get lost in Rome, but doing (31)___ is the best
+          way to actually learn about the city. Of course, if you
+          are curious about history, you should visit the famous
+          archaeological sites, churches and monuments in 5-
+          to learn as much as you can about the city. However,
+          there is such a huge amount of information, that at
+          some point you should just take a break and spend an
+          afternoon exploring the back streets <b>(32)___</b> foot. If you get
+          lost - and you probably will - so much the better. Just
+          give yourself enough time to enjoy the experience
+          without worry or stress. You will have a chance to
+          see everyday Roman life and you will go back home
+          knowing Rome better than most other tourists.`,
+    questionText: "32.",
+    options: [
+      "with",
+      "on",
+      "for",
+      "along"
     ],
-    correct:0,
+    correct: 1 // Please fill in the correct option index (0-3)
   }
-
-]
+];
 const questionsContainer = document.getElementById("questions");
 
  /*               */ 
@@ -533,6 +741,9 @@ questions.forEach((q, index) => {
             <div class="option-btn border border-gray-300 rounded-xl px-5 py-3 text-gray-800 bg-white cursor-pointer">${opt}</div>
           </label><br>
         `).join("")}
+        <div style='display:none' class="CorrectAnswer questionCorrectAnswer">
+          <p  >Correct answer:${q.correct+1}</p>
+        </div>
       </div>
     `;
   
@@ -563,6 +774,9 @@ The city was not always the vibrant metropolis it is today. Dutch settlers bough
             <div class="option-btn border border-gray-300 rounded-xl px-5 py-3 text-gray-800 bg-white cursor-pointer">${opt}</div>
           </label><br>
         `).join("")}
+        <div style='display:none' class="CorrectAnswer questionCorrectAnswer">
+          <p  >Correct answer:${q.correct+1}</p>
+        </div>
       </div>
     `
 
@@ -586,6 +800,9 @@ questionsTask3.forEach((q,index)=>{
             <div class="option-btn border border-gray-300 rounded-xl px-5 py-3 text-gray-800 bg-white cursor-pointer">${opt}</div>
           </label><br>
         `).join("")}
+        <div style='display:none' class="CorrectAnswer questionCorrectAnswer">
+          <p  >Correct answer:${q.correct+1}</p>
+        </div>
       </div>
     `
     questionsContainer.appendChild(div);
@@ -608,6 +825,9 @@ questionsTask4.forEach((q,index)=>{
             <div class="option-btn border border-gray-300 rounded-xl px-5 py-3 text-gray-800 bg-white cursor-pointer">${opt}</div>
           </label><br>
         `).join("")}
+        <div style='display:none' class="CorrectAnswer questionCorrectAnswer">
+          <p  >Correct answer:${q.correct+1}</p>
+        </div>
       </div>
     `
     questionsContainer.appendChild(div);
@@ -631,6 +851,9 @@ questionsTask5.forEach((q,index)=>{
             <div class="option-btn border border-gray-300 rounded-xl px-5 py-3 text-gray-800 bg-white cursor-pointer">${opt}</div>
           </label><br>
         `).join("")}
+        <div style='display:none' class="CorrectAnswer questionCorrectAnswer">
+          <p  >Correct answer:${q.correct+1}</p>
+        </div>
       </div>
     `
     questionsContainer.appendChild(div);
@@ -653,6 +876,9 @@ questionsTask6.forEach((q,index)=>{
             <div class="option-btn border border-gray-300 rounded-xl px-5 py-3 text-gray-800 bg-white cursor-pointer">${opt}</div>
           </label><br>
         `).join("")}
+        <div style='display:none' class="CorrectAnswer questionCorrectAnswer">
+          <p  >Correct answer:${q.correct+1}</p>
+        </div>
       </div>
     `
     questionsContainer.appendChild(div);
@@ -691,6 +917,9 @@ let currentQuestion=0
       let score = 0;
       const tryAgainButton = document.getElementById('again');
       tryAgainButton.style.display = 'block';
+      Array.from(correctanswer).forEach((el) => {
+        el.style.display='block';
+    })
     
       Questions.forEach((qElement, i) => {
         const selected = qElement.querySelector('input[type="radio"]:checked');
@@ -742,6 +971,10 @@ let currentQuestion=0
     function tryAgain() {
       buttons.length = 0;
       nav.innerHTML = '';
+      const correctanswer=document.getElementsByClassName('CorrectAnswer');
+        Array.from(correctanswer).forEach((el) => {
+            el.style.display='none';
+        })
       
       Questions.forEach((q, i) => {
         const btn = document.createElement('button');
