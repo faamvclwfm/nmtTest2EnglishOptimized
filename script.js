@@ -153,7 +153,7 @@ These early innovations laid the groundwork for what would eventually become the
     text: `The bus is one of the most widely used public transport vehicles, serving both urban and intercity routes. Depending on the type, buses can carry anywhere from 30 to 300 passengers.
 Common variations include double-decker buses, which offer additional capacity, articulated buses for larger loads, and smaller options like midibuses and minibuses. Intercity buses cater to longer distances. The evolution of buses began with horse-drawn versions in the 1820s, followed by steam buses in the 1830s and electric trolleybuses in 1882. The first motorized buses appeared in 1895. Today, reflecting global trends in sustainable transportation, there's a growing shift towards environmentally friendly options like hybrid electric, fuel cell, and compressed natural gas buses.`,
     questionText: "12. Which of the options states that...",
-    ooptions: [
+    options: [
       "<b>A</b> uses metal ropes to navigate tough terrains in cities and mountains.",
       "<b>B</b> is a kind of water bus",
       "<b>C</b> owes its modern reinvention to an argument",
@@ -742,7 +742,7 @@ questions.forEach((q, index) => {
       <div class="space-y-3">
         ${q.options.map((opt, i) => `
           <label for="q${qNumber}a${i+1}" class="block">
-            <input type="radio" id="q${qNumber}a${i+1}" name="q${qNumber}" value="${i === q.correct ? 1 : 0}" class="hidden" onchange="markSelected(this);>
+            <input type="radio" id="q${qNumber}a${i+1}" name="q${qNumber}" value="${i === q.correct ? 1 : 0}" class="hidden" onchange="markSelected(this);">
             <div class="option-btn border border-gray-300 rounded-xl px-5 py-3 text-gray-800 bg-white cursor-pointer">${opt}</div>
           </label><br>
         `).join("")}
@@ -775,7 +775,7 @@ The city was not always the vibrant metropolis it is today. Dutch settlers bough
       <div class="space-y-3">
         ${q.options.map((opt, i) => `
           <label for="q${qNumber}a${i+1}" class="block">
-            <input type="radio" id="q${qNumber}a${i+1}" name="q${qNumber}" value="${i === q.correct ? 1 : 0}" class="hidden" onchange="markSelected(this);>
+            <input type="radio" id="q${qNumber}a${i+1}" name="q${qNumber}" value="${i === q.correct ? 1 : 0}" class="hidden" onchange="markSelected(this);">
             <div class="option-btn border border-gray-300 rounded-xl px-5 py-3 text-gray-800 bg-white cursor-pointer">${opt}</div>
           </label><br>
         `).join("")}
@@ -801,7 +801,7 @@ questionsTask3.forEach((q,index)=>{
     <div class="space-y-3">
         ${q.options.map((opt, i) => `
           <label for="q${qNumber}a${i+1}" class="block">
-            <input type="radio" id="q${qNumber}a${i+1}" name="q${qNumber}" value="${i === q.correct ? 1 : 0}" class="hidden" onchange="markSelected(this);>
+            <input type="radio" id="q${qNumber}a${i+1}" name="q${qNumber}" value="${i === q.correct ? 1 : 0}" class="hidden" onchange="markSelected(this);">
             <div class="option-btn border border-gray-300 rounded-xl px-5 py-3 text-gray-800 bg-white cursor-pointer">${opt}</div>
           </label><br>
         `).join("")}
@@ -826,7 +826,7 @@ questionsTask4.forEach((q,index)=>{
     <div class="space-y-3">
         ${q.options.map((opt, i) => `
           <label for="q${qNumber}a${i+1}" class="block">
-            <input type="radio" id="q${qNumber}a${i+1}" name="q${qNumber}" value="${i === q.correct ? 1 : 0}" class="hidden" onchange="markSelected(this);>
+            <input type="radio" id="q${qNumber}a${i+1}" name="q${qNumber}" value="${i === q.correct ? 1 : 0}" class="hidden" onchange="markSelected(this);">
             <div class="option-btn border border-gray-300 rounded-xl px-5 py-3 text-gray-800 bg-white cursor-pointer">${opt}</div>
           </label><br>
         `).join("")}
@@ -852,7 +852,7 @@ questionsTask5.forEach((q,index)=>{
     <div class="space-y-3">
         ${q.options.map((opt, i) => `
           <label for="q${qNumber}a${i+1}" class="block">
-            <input type="radio" id="q${qNumber}a${i+1}" name="q${qNumber}" value="${i === q.correct ? 1 : 0}" class="hidden" onchange="markSelected(this);>
+            <input type="radio" id="q${qNumber}a${i+1}" name="q${qNumber}" value="${i === q.correct ? 1 : 0}" class="hidden" onchange="markSelected(this);">
             <div class="option-btn border border-gray-300 rounded-xl px-5 py-3 text-gray-800 bg-white cursor-pointer">${opt}</div>
           </label><br>
         `).join("")}
@@ -877,7 +877,7 @@ questionsTask6.forEach((q,index)=>{
     <div class="space-y-3">
         ${q.options.map((opt, i) => `
           <label for="q${qNumber}a${i+1}" class="block">
-            <input type="radio" id="q${qNumber}a${i+1}" name="q${qNumber}" value="${i === q.correct ? 1 : 0}" class="hidden" onchange="markSelected(this);>
+            <input type="radio" id="q${qNumber}a${i+1}" name="q${qNumber}" value="${i === q.correct ? 1 : 0}" class="hidden" onchange="markSelected(this);">
             <div class="option-btn border border-gray-300 rounded-xl px-5 py-3 text-gray-800 bg-white cursor-pointer">${opt}</div>
           </label><br>
         `).join("")}
@@ -922,10 +922,13 @@ let currentQuestion=0
       let score = 0;
       const tryAgainButton = document.getElementById('again');
       tryAgainButton.style.display = 'block';
-      Array.from(correctanswer).forEach((el) => {
-        el.style.display='block';
-    })
-    
+      
+      // Fix: Use document.getElementsByClassName to get elements with class 'CorrectAnswer'
+      const correctAnswers = document.getElementsByClassName('CorrectAnswer');
+      Array.from(correctAnswers).forEach((el) => {
+        el.style.display = 'block';
+      });
+      
       Questions.forEach((qElement, i) => {
         const selected = qElement.querySelector('input[type="radio"]:checked');
         const selectedIndex = selected ? Array.from(qElement.querySelectorAll('input[type="radio"]')).indexOf(selected) : -1;
