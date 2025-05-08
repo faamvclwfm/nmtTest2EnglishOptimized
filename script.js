@@ -815,7 +815,7 @@ questionsTask4.forEach((q,index)=>{
     div.className = "question";
 
     div.innerHTML=`
-    <h2 style="text-align: center; font-size:40px; font-weight:600">The History of the Olympic Games</h2>
+    <h2 style="text-align: center; font-size:40px; font-weight:600">The History of Fast Food</h2>
     <p>${q.text}</p>
     <p style="font-weight: bold;">${q.questionText}</p>
     <div class="space-y-3">
@@ -866,7 +866,7 @@ questionsTask6.forEach((q,index)=>{
 
     div.innerHTML=`
     <h2 style="text-align: center;font-size:30px; font-weight:600">USE OF ENGLISH</h2>
-    <h3 style="text-align: center; font-size:40px; font-weight:600">Benefits of Exercise</h3>
+    <h3 style="text-align: center; font-size:40px; font-weight:600">Getting lost in Rome</h3>
     <p>${q.text}</p>
     <p style="font-weight: bold;">${q.questionText}</p>
     <div class="space-y-3">
