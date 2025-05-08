@@ -134,94 +134,99 @@ const questionsTask2=[
 ]
 const questionsTask3 = [
   {
-    text: " <b>Fascinating people's stories</b> <br> In June 2018, after football practice, 12 boys and their 25-year-old coach decided to explore Tham Luang cave in Thailand. They walked into the cave, but a flash flood forced them deeper, and they ended up on a platform four kilometers in. The cave filled with water, trapping them for 17 days. With no food for the first nine days, they drank water from dripping stalactites and took turns digging a hole, hoping to escape. Finally, some divers found them. It was a long and dangerous journey to bring them out of the cave. The boys had to wear special masks to breathe underwater and hold hands with two divers while they swam through dark, narrow tunnels. Sadly, one rescuer, a former Thai Navy Seal died during that operation.",
+    text: `The origins of trains can be traced back to ancient times. One of the earliest known causeways, the Post Track, was built in England around 3838 B.C. In ancient Greece, people and animals pulled wheeled vehicles across grooves in limestone, guiding wagons along designated routes — a concept similar to modern railways.
+These early innovations laid the groundwork for what would eventually become the railway system. However, the true origins of the modern train began in the early 1800s with wooden rails in England. The first train was born from an argument between engineer Richard Trevithick and a mine owner in Pennydarran, U.K., marking the start of intercity and intercontinental travel by rail.`,
     questionText: "11. Which of the options states that...",
     options: [
-      "The man didn't mean to make such a long voyage alone.",
-      "An unusual way was found to get saved from the cavern.",
-      "That woman lived alone in a temporary camp for two years.",
-      "The voyage was interrupted by marine animals.",
-      "The expedition was too dangerous for these scientists to move on.",
-      "That person had to injure himself to survive.",
-      "That person had a short flight in an unusual vehicle.",
-      "That person got lost looking for some insects.",
+      "<b>A</b> uses metal ropes to navigate tough terrains in cities and mountains.",
+      "<b>B</b> is a kind of water bus",
+      "<b>C</b> owes its modern reinvention to an argument",
+      "<b>D</b> runs on private track, frequently below ground, unlike buses or trams",
+      "<b>E</b> behaves more like a fixed-wing aircraft",
+      "<b>F</b> is now shifting towards eco-friendly models",
+      "<b>G</b> evolved from animal-drawn vehicles to flying machines",
+      "<b>H</b> still operates historic lines",
     ],
-    correct: 1
+    correct: 2
   },
   {
-    text: " <b>Fascinating people's stories</b> <br> Cindy Busick from Sanford, NC, had an incredible escape from a tornado. The tornado struck her home, tearing it apart and sending her 75 yards away while she was in her bathtub. 'I flew a football field length in a bath tub,' remembered Cindy, the survivor. The woman had crawled under the bathtub to stay safe. After the tornado, she found that her belongings were scattered up to 70 miles away. With only a few clothes left, Cindy got emergency help from the Red Cross. Her husband, Kevin, who came back from Africa after the tornado, found his wedding band in the ruins. Cindy and Kevin are grateful for the help they had received and plan to give back when they can.",
+    text: `The bus is one of the most widely used public transport vehicles, serving both urban and intercity routes. Depending on the type, buses can carry anywhere from 30 to 300 passengers.
+Common variations include double-decker buses, which offer additional capacity, articulated buses for larger loads, and smaller options like midibuses and minibuses. Intercity buses cater to longer distances. The evolution of buses began with horse-drawn versions in the 1820s, followed by steam buses in the 1830s and electric trolleybuses in 1882. The first motorized buses appeared in 1895. Today, reflecting global trends in sustainable transportation, there's a growing shift towards environmentally friendly options like hybrid electric, fuel cell, and compressed natural gas buses.`,
     questionText: "12. Which of the options states that...",
-    options: [
-      "The man didn't mean to make such a long voyage alone.",
-      "An unusual way was found to get saved from the cavern.",
-      "That woman lived alone in a temporary camp for two years.",
-      "The voyage was interrupted by marine animals.",
-      "The expedition was too dangerous for these scientists to move on.",
-      "That person had to injure himself to survive.",
-      "That person had a short flight in an unusual vehicle.",
-      "That person got lost looking for some insects.",
-    ],
-    correct: 6
-  },
-  {
-    text: " <b>Fascinating people's stories</b> <br> The Sierra Nevada mountains are a popular destination for tourists and hikers. On August 6, 2014, Mike Vilhauer set out for a day of fly fishing in this picturesque region. After several hours of unsuccessful fishing, he decided to use grasshoppers instead of flies and went to find some. Enjoying the walk, Mike lost track of time and realized it was getting dark. Unable to return to his spot, he spent the night under a pine tree. His phone signal was blocked by the mountains. Some days he followed a small stream but got even more lost. Then he heard a rescue helicopter but it didn't spot him. Returning to his temporary camp, he finally saw a rescue dog and a search team. They had been looking for him since Friday. Mike was exhausted but otherwise fine.",
-    questionText: "13. Which of the options states that...",
-    options: [
-      "The man didn't mean to make such a long voyage alone.",
-      "An unusual way was found to get saved from the cavern.",
-      "That woman lived alone in a temporary camp for two years.",
-      "The voyage was interrupted by marine animals.",
-      "The expedition was too dangerous for these scientists to move on.",
-      "That person had to injure himself to survive.",
-      "That person had a short flight in an unusual vehicle.",
-      "That person got lost looking for some insects.",
-    ],
-    correct: 7
-  },
-  {
-    text: " <b>Fascinating people's stories</b> <br> British dairy farmer Dougal Robertson wanted to give his family an adventure, so on January 27, 1971, he, his wife, and their four children set sail on a wooden boat named Lucette. Despite Dougal's background in the British merchant navy, he hadn't prepared much for the trip. The family enjoyed their time sailing until June 15, 1972, when killer whales attacked their boat near the Galapagos Islands, damaging it badly and causing it to sink. With only a lifeboat, a small dinghy, and six days' worth of food, they survived on rainwater and hunted turtles. After 16 days, their lifeboat became unusable, and they moved to the overcrowded dinghy. They were rescued by Japanese fishermen on July 23, 1972. The Robertson family had been lost at sea for 38 days.",
-    questionText: "14. Which of the options states that...",
-    options: [
-      "The man didn't mean to make such a long voyage alone.",
-      "An unusual way was found to get saved from the cavern.",
-      "That woman lived alone in a temporary camp for two years.",
-      "The voyage was interrupted by marine animals.",
-      "The expedition was too dangerous for these scientists to move on.",
-      "That person had to injure himself to survive.",
-      "That person had a short flight in an unusual vehicle.",
-      "That person got lost looking for some insects.",
-    ],
-    correct: 3
-  },
-  {
-    text: " <b>Fascinating people's stories</b> <br> Aron Ralston's survival story is an example of extraordinary courage. In 2003, while he was hiking alone in Utah's Bluejohn Canyon, a big stone fell and trapped his right arm. With no hope of rescue and limited resources, Ralston faced an impossible decision. After five days of unimaginable suffering, he made the drastic choice to amputate his own arm to free himself. Afterwards, he walked seven miles to his truck and a tourist family found him. Despite the physical and mental trauma, Ralston survived. Nowadays, he continues to climb mountains and is an inspiration to many through his unbelievable story.",
-    questionText: "15.Which of the options states that...",
-    options: [
-      "The man didn't mean to make such a long voyage alone.",
-      "An unusual way was found to get saved from the cavern.",
-      "That woman lived alone in a temporary camp for two years.",
-      "The voyage was interrupted by marine animals.",
-      "The expedition was too dangerous for these scientists to move on.",
-      "That person had to injure himself to survive.",
-      "That person had a short flight in an unusual vehicle.",
-      "That person got lost looking for some insects.",
+    ooptions: [
+      "<b>A</b> uses metal ropes to navigate tough terrains in cities and mountains.",
+      "<b>B</b> is a kind of water bus",
+      "<b>C</b> owes its modern reinvention to an argument",
+      "<b>D</b> runs on private track, frequently below ground, unlike buses or trams",
+      "<b>E</b> behaves more like a fixed-wing aircraft",
+      "<b>F</b> is now shifting towards eco-friendly models",
+      "<b>G</b> evolved from animal-drawn vehicles to flying machines",
+      "<b>H</b> still operates historic lines",
     ],
     correct: 5
   },
   {
-    text: " <b>Fascinating people's stories</b> <br> Spending 13 months adrift at sea made José Salvador Alvarenga, a Salvadoran fisherman, the first person known to survive over a year on a small boat at sea. In November, 2012, Alvarenga and a young fisherman Ezequiel Cordoba set out from a fishing village in southern Mexico. They aimed for a short trip to catch sharks and tunas. A severe storm hit shortly after, damaging their boat and radio. The rescue team had no success. The fishermen were believed to die during the storm. Without supplies, the men survived by eating raw fish, turtles, and jellyfish, and drinking rainwater and turtle blood. Cordoba fell ill and died after months at sea. Alvarenga was alone for nine more months before spotting an island and swimming to shore. He was found by a local couple in the Marshall Islands, having been in the sea for over 438 days.",
-    questionText: "16. Which of the options states that...",
+    text: `The metro is a high-capacity public transport system commonly found in urban areas, designed to efficiently move large crowds. Unlike buses or trams, metro systems typically operate on private railways that are inaccessible to pedestrians and other vehicles, often running through
+underground tunnels or high-speed lines. The London Underground, the world's oldest metro system, opened in 1863 and introduced its first electrified line in 1890. Today, the Shanghai Metro holds the title for the world's longest metro network, spanning 803 kilometers and boasting the highest annual ridership with 2.83 billion trips. Meanwhile, the New York City Subway has the most stations, with 472, and Mexico City operates the second largest metro system in North America.`,
+    questionText: "13. Which of the options states that...",
     options: [
-      "The man didn't mean to make such a long voyage alone.",
-      "An unusual way was found to get saved from the cavern.",
-      "That woman lived alone in a temporary camp for two years.",
-      "The voyage was interrupted by marine animals.",
-      "The expedition was too dangerous for these scientists to move on.",
-      "That person had to injure himself to survive.",
-      "That person had a short flight in an unusual vehicle.",
-      "That person got lost looking for some insects.",
+      "<b>A</b> uses metal ropes to navigate tough terrains in cities and mountains.",
+      "<b>B</b> is a kind of water bus",
+      "<b>C</b> owes its modern reinvention to an argument",
+      "<b>D</b> runs on private track, frequently below ground, unlike buses or trams",
+      "<b>E</b> behaves more like a fixed-wing aircraft",
+      "<b>F</b> is now shifting towards eco-friendly models",
+      "<b>G</b> evolved from animal-drawn vehicles to flying machines",
+      "<b>H</b> still operates historic lines",
+    ],
+    correct: 3
+  },
+  {
+    text: `A cable car is a unique transportation system where cabins are suspended from steel ropes, offering a thrilling ride to high places, whether in mountainous regions or cities. Unlike elevators, cable cars can reach great heights, crossing valleys much like helicopters. The Norsjö Cable Car in Sweden holds the title of the world's longest cable car line. Established in 1942, it stretches 13.2 kilometers (8.2 miles) between the settlements of Örtrask and Menstrask. The journey takes about 1.5 hours, providing spectacular views and a smooth ride through Sweden's scenic landscapes. Cable cars not only offer a practical solution for challenging terrains but also a breathtaking experience.`,
+    questionText: "14. Which of the options states that...",
+    options: [
+      "<b>A</b> uses metal ropes to navigate tough terrains in cities and mountains.",
+      "<b>B</b> is a kind of water bus",
+      "<b>C</b> owes its modern reinvention to an argument",
+      "<b>D</b> runs on private track, frequently below ground, unlike buses or trams",
+      "<b>E</b> behaves more like a fixed-wing aircraft",
+      "<b>F</b> is now shifting towards eco-friendly models",
+      "<b>G</b> evolved from animal-drawn vehicles to flying machines",
+      "<b>H</b> still operates historic lines",
     ],
     correct: 0
+  },
+  {
+    text: `A ferry, or car ferry, is a versatile mode of transport used in seas or lakes to carry passengers and vehicles, including cars and even railway vehicles, across water. Unlike cruise ships, ferries serve a more practical purpose, similar to buses or trains, by providing essential transportation between cities, islands, and across bodies of water like the Western Mediterranean, Adriatic, and Baltic Sea. However, some ferries also cater to the leisure industry, transporting vacationers between destinations, such as from the UK to France or Spain, or among the Greek islands. These vessels offer a vital link for travelers and commuters alike, balancing utility with the occasional touch of adventure in region. rich with waterways.`,
+    questionText: "15. Which of the options states that...",
+    options: [
+      "<b>A</b> uses metal ropes to navigate tough terrains in cities and mountains.",
+      "<b>B</b> is a kind of water bus",
+      "<b>C</b> owes its modern reinvention to an argument",
+      "<b>D</b> runs on private track, frequently below ground, unlike buses or trams",
+      "<b>E</b> behaves more like a fixed-wing aircraft",
+      "<b>F</b> is now shifting towards eco-friendly models",
+      "<b>G</b> evolved from animal-drawn vehicles to flying machines",
+      "<b>H</b> still operates historic lines",
+    ],
+    correct: 1
+  },
+  {
+    text: ` Trams, a key component of rail systems, are known for carrying large numbers of passengers.
+            They come in both high-speed and low-speed varieties, and unlike trains, tram rails can be laid on streets, allowing other vehicles to share the road. Most trams are powered by electricity, though horse or petrol-powered versions also exist. The evolution of electric trams is fascinating. The first street tramway appeared in New York in 1832, followed by New Orleans in 1835, where it still operates today. Electric trams became possible after Werner von Siemens developed a practical dynamo in 1879, leading to the world's first electric tramway in Berlin in
+            1881. By 1883, the United Kingdom had its first electric lines, including the still-operating Volks Railway in Brighton.`,
+    questionText: "16. Which of the options states that...",
+    options: [
+      "<b>A</b> uses metal ropes to navigate tough terrains in cities and mountains.",
+      "<b>B</b> is a kind of water bus",
+      "<b>C</b> owes its modern reinvention to an argument",
+      "<b>D</b> runs on private track, frequently below ground, unlike buses or trams",
+      "<b>E</b> behaves more like a fixed-wing aircraft",
+      "<b>F</b> is now shifting towards eco-friendly models",
+      "<b>G</b> evolved from animal-drawn vehicles to flying machines",
+      "<b>H</b> still operates historic lines",
+    ],
+    correct: 7
   }
 ];
 const questionsTask4 = [
