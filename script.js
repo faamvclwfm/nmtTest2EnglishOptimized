@@ -947,12 +947,12 @@ let currentQuestion=0
           selected.nextElementSibling.classList.add('incorrect-answer');
         }
     
-        buttons[i].classList.remove('correct', 'incorrect');
+        buttons[i].classList.remove('correct-answer', 'incorrect-answer');
         if (isCorrect) {
           score++;
-          buttons[i].classList.add('correct');
+          buttons[i].classList.add('correct-answer');
         } else {
-          buttons[i].classList.add('incorrect');
+          buttons[i].classList.add('incorrect-answer');
         }
     
         qElement.querySelectorAll('input[type="radio"]').forEach(radio => {
@@ -979,11 +979,11 @@ let currentQuestion=0
     function tryAgain() {
       buttons.length = 0;
       nav.innerHTML = '';
-      const correctanswer=document.getElementsByClassName('CorrectAnswer');
-        Array.from(correctanswer).forEach((el) => {
-            el.style.display='none';
-        })
-      
+      const correctAnswers = document.getElementsByClassName('CorrectAnswer');
+      Array.from(correctAnswers).forEach((el) => {
+        el.style.display = 'none';
+      });
+    
       Questions.forEach((q, i) => {
         const btn = document.createElement('button');
         btn.textContent = i + 1;
@@ -998,11 +998,12 @@ let currentQuestion=0
           radio.checked = false;
         });
     
-        q.querySelectorAll('label').forEach(label => {
-          label.classList.remove('correct-answer', 'incorrect-answer');
+        // Remove correct-answer, incorrect-answer, and selected classes from option-btn divs
+        q.querySelectorAll('.option-btn').forEach(option => {
+          option.classList.remove('correct-answer', 'incorrect-answer', 'selected');
         });
       });
-      
+    
       showQuestion(0);
       document.getElementById('result').textContent = '';
       document.getElementById('again').style.display = 'none';
